@@ -1,0 +1,9 @@
+{
+	"ip":"MineWorldGd0W.aternos.me:24586",
+	"port": 24586,
+	"name": "MineWorld Bot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Mineworld1234(remember_no_spaces)) (Mineworld1234(remember_no_spaces))",
+	"login-cmd":"/login (Mineworld1234)"
+}
